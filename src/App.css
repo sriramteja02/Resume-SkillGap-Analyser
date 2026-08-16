@@ -1,0 +1,38 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.card {
+  padding: 2em;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-child(2) {
+    animation: infinite 20s linear shake;
+  }
+
+  @keyframes shake {
+    0%,
+    50% {
+      transform: translateX(0);
+    }
+
+    10%,
+    30% {
+      transform: translateX(-2px);
+    }
+
+    20%,
+    40%,
+    60% {
+      transform: translateX(2px);
+    }
+
+    80% {
+      transform: translateX(-2px);
+    }
+  }
+}

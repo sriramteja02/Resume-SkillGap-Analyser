@@ -1,0 +1,12 @@
+[
+ {"id":"ts-doc","skill":"TypeScript","title":"TypeScript Handbook","type":"Documentation","difficulty":"Beginner","source":"TypeScript","url":"https://www.typescriptlang.org/docs/handbook/intro.html","description":"Official TypeScript documentation covering core language concepts."},
+ {"id":"react-doc","skill":"React","title":"React Learn","type":"Documentation","difficulty":"Beginner","source":"React","url":"https://react.dev/learn","description":"Official React learning path and concepts."},
+ {"id":"mdn-js","skill":"JavaScript","title":"JavaScript Guide","type":"Documentation","difficulty":"Beginner","source":"MDN","url":"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide","description":"Comprehensive JavaScript guide from MDN."},
+ {"id":"mdn-css","skill":"CSS","title":"CSS Guides","type":"Documentation","difficulty":"Beginner","source":"MDN","url":"https://developer.mozilla.org/en-US/docs/Web/CSS","description":"Reference and guides for modern CSS."},
+ {"id":"fcc-js","skill":"JavaScript","title":"JavaScript Algorithms and Data Structures","type":"Course","difficulty":"Intermediate","source":"freeCodeCamp","url":"https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/","description":"Free interactive curriculum for JavaScript and problem solving."},
+ {"id":"jest-doc","skill":"Testing","title":"Jest Getting Started","type":"Documentation","difficulty":"Beginner","source":"Jest","url":"https://jestjs.io/docs/getting-started","description":"Official Jest setup and testing fundamentals."},
+ {"id":"git-doc","skill":"Git","title":"Git Documentation","type":"Documentation","difficulty":"Beginner","source":"Git","url":"https://git-scm.com/doc","description":"Official Git documentation and reference."},
+ {"id":"sql-fcc","skill":"SQL","title":"Relational Database Course","type":"Course","difficulty":"Beginner","source":"freeCodeCamp","url":"https://www.freecodecamp.org/learn/relational-databases/","description":"Free SQL and relational database learning path."},
+ {"id":"python-doc","skill":"Python","title":"Python Tutorial","type":"Documentation","difficulty":"Beginner","source":"Python","url":"https://docs.python.org/3/tutorial/","description":"Official Python tutorial."},
+ {"id":"docker-doc","skill":"Docker","title":"Docker Get Started","type":"Documentation","difficulty":"Beginner","source":"Docker","url":"https://docs.docker.com/get-started/","description":"Official Docker getting-started guide."}
+]
